@@ -1,0 +1,17 @@
+*.meta
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+UserSettings/
+.vsconfig
+Assembly-CSharp.csproj
+SlimeRunner.sln
+.vs/
+Animations/
+Prefabs/
+Scenes/
+Sounds/
+Sprites/
+TextMesh Pro/
